@@ -1,8 +1,6 @@
 # Randomised Optimisation Algorithms Research Network
 
-<br>
 <p align="center"><img src="https://github.com/roar-net/.github/blob/main/images/roarnet-whitebg.png" alt="ROAR-NET Logo" width="100%"/></p>
-<br>
 
 Working to make Randomised Optimisation Algorithms (ROAs) highly competitive in practice, leading to their widespread adoption in the real world and to the sustained availability of software tools to support it. Competitiveness encompasses ROA performance, but also all aspects of their practical application, including the humans, processes, and technologies involved.
 
